@@ -27,4 +27,5 @@
 </p>
 
 ---
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashBhadoriya&show_icons=true&theme=radical)
 
