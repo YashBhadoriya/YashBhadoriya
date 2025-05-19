@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS basics, or how to get started in tech**
 
-- 📫 Reach me at **your-email@example.com** (replace with your real email)
+- 📫 Reach me at **bughuntyash@gmail.com**
 
 - ⚡ Fun fact: I love solving puzzles and automating things!
 
