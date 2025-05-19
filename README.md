@@ -26,6 +26,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhadoriya&theme=tokyonight" />
 </p>
 
----
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashBhadoriya&show_icons=true&theme=radical)
-
