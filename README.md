@@ -28,7 +28,7 @@ _Google Cloud • Pendo • Mind the Product_
 
 
 ### ✅ ChatGPT Prompt Engineering for Developers  
-[🔗 View Certificate]([https://your-certificate-link-here.com](https://learn.deeplearning.ai/accomplishments/6495a546-622b-4c5f-a82a-3039f92915ad?usp=sharing))
+[🔗 View Certificate ](https://learn.deeplearning.ai/accomplishments/6495a546-622b-4c5f-a82a-3039f92915ad?usp=sharing)
 
 
 
