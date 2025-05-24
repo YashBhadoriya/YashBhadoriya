@@ -27,6 +27,11 @@ _Google Cloud • Pendo • Mind the Product_
 [🔗 View Certificate on Credly](https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url)
 
 
+### ✅ ChatGPT Prompt Engineering for Developers  
+[🔗 View Certificate]([https://your-certificate-link-here.com](https://learn.deeplearning.ai/accomplishments/6495a546-622b-4c5f-a82a-3039f92915ad?usp=sharing))
+
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
