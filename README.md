@@ -18,11 +18,14 @@
 **AI for Product Management**  
 _Google Cloud • Pendo • Mind the Product_
 
-[![AI for Product Management Badge](https://images.credly.com/size/340x340/images/8e9e80f2-fbe8-4ff7-a5c0-d3b2817a26a3/image.png)](https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/YashBhadoriya/YashBhadoriya/main/ai-for-product-management%20(1).png" width="300" alt="AI for Product Management Badge"/>
+  </a>
+</p>
 
 [🔗 View Certificate on Credly](https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url)
 
----
 
 ### 🛠️ Tech Stack
 
