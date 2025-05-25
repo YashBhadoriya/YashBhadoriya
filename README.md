@@ -14,10 +14,17 @@
 ---
 
 ### 🧠 Certifications
+
 <p align="center">
-  <img src="https://github.com/YashBhadoriya/YashBhadoriya/blob/main/A7K3LJijKihsoqFVb1y5ud07C8zCIZG+MLTiCcYzpcw=.png?raw=true" width="300" alt="Introduction to Large Language Models Badge" />
-  <img src="https://raw.githubusercontent.com/YashBhadoriya/YashBhadoriya/main/ai-for-product-management%20(1).png" width="300" alt="AI for Product Management Badge" />
-  <img src="https://github.com/YashBhadoriya/YashBhadoriya/blob/main/VF6eQ1bV85fqKBpu8AVD_4G93sg9wJQ0wWe9CTc_J_4=.png?raw=true" width="300" alt="Introduction to Generative AI Badge" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/8fdd9ae6-ef1b-4093-bb8c-7c2de72c6f80/badges/5118820">
+    <img src="https://raw.githubusercontent.com/YashBhadoriya/YashBhadoriya/main/introduction-to-llm.png" width="250" alt="Introduction to Large Language Models Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url">
+    <img src="https://raw.githubusercontent.com/YashBhadoriya/YashBhadoriya/main/ai-for-product-management.png" width="270" alt="AI for Product Management Badge" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/8fdd9ae6-ef1b-4093-bb8c-7c2de72c6f80/badges/5118916">
+    <img src="https://raw.githubusercontent.com/YashBhadoriya/YashBhadoriya/main/introduction-to-generative-ai.png" width="250" alt="Introduction to Generative AI Badge" />
+  </a>
 </p>
 
 ### ✅ ChatGPT Prompt Engineering for Developers  
