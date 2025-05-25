@@ -10,6 +10,23 @@
 - 💬 Ask me about **HTML, CSS, JS basics, or getting started in tech**
 - 📫 Reach me at: **bughuntyash@gmail.com**
 - ⚡ Fun fact: I love solving puzzles and automating tasks!
+---
+
+## 💼 Internship Experience
+
+🚀 **Data Science with AI Intern**  
+🏢 **Labmentix Edtech Pvt. Ltd.**  
+📅 **June 2025 – Present**
+
+✨ Key Highlights:
+- Working on AI-powered projects for educational applications
+- Hands-on with real-world datasets, model training, and deployment
+- Collaborating with a team to build data-driven features
+
+🛠 Tools: Python, Pandas, Scikit-learn, Jupyter, Git  
+📍 Duration: 4–6 months | Remote
+
+![Internship Badge](https://img.shields.io/badge/Labmentix%20Intern-Data%20Science-blue)
 
 ---
 
