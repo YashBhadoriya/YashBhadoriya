@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yash Bhadoriya</h1>
-<h3 align="center">A passionate developer and lifelong learner 🚀</h3>
+## 👋 Hi there! I'm Yash Bhadoriya
+
+🎓 Aspiring **AI Product Manager** | 🚀 Passionate about turning innovative ideas into impactful products  
+📍 Currently exploring AI, Product Management, and Open Source Development  
+🌱 Learning by doing — one project, prompt, and pull request at a time.
 
 ---
 
-### 🙋‍♂️ About Me:
+### 🧠 Skills & Interests
 
-- 🌱 Currently learning **GitHub, Web Development, and Open Source**
-- 🛠️ Improving my skills in **JavaScript, React, and Python**
-- 💬 Ask me about **HTML, CSS, JS basics, or getting started in tech**
-- 📫 Reach me at: **bughuntyash@gmail.com**
-- ⚡ Fun fact: I love solving puzzles and automating tasks!
+- 🧑‍💻 **Languages & Tools**: Python, Git, GitHub, HTML, CSS, JavaScript (basic)
+- 🧠 **AI & ML Foundations**: Generative AI, Prompt Engineering, LLMs
+- ⚙️ **Product Thinking**: Agile workflows, user-centric design, product roadmapping
+- 🧰 **Tools & Platforms**: Google Cloud, VS Code, GitHub Projects
+
 ---
 
 ## 💼 Internship Experience
