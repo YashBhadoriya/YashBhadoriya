@@ -27,6 +27,12 @@ _Google Cloud • Pendo • Mind the Product_
 [🔗 View Certificate on Credly](https://www.credly.com/badges/c44c06e8-bdc3-444c-9567-5bc349a0f11c/public_url)
 
 
+<p float="left">
+  <img src="https://github.com/YashBhadoriya/YashBhadoriya/blob/main/A7K3LJijKihsoqFVb1y5ud07C8zClZG+MLTiCcYzpcw=.png?raw=true" width="300"/>
+  <img src="https://github.com/YashBhadoriya/YashBhadoriya/blob/main/VF6eQ1bV85fqKBpu8AVD_4G93sg9wJQ0wWe9CTc_J_4=.png?raw=true" width="300"/>
+</p>
+
+
 ### ✅ ChatGPT Prompt Engineering for Developers  
 [🔗 View Certificate ](https://learn.deeplearning.ai/accomplishments/6495a546-622b-4c5f-a82a-3039f92915ad?usp=sharing)
 
