@@ -34,13 +34,6 @@
 
 ---
 
-### 🎓 Certifications
-- Google Cloud Introduction to LLMs
-- Google Cloud Introduction to Generative AI
-- AI for Product Management
-
----
-
 ### 🚀 Projects (Coming Soon)
 - `linux-devops-guide` — Linux commands & concepts
 - `bash-automation-toolkit` — Production bash scripts
@@ -72,9 +65,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yashbhadoriya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://upwork.com/freelancers/~YOUR-UPWORK-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork" />
   </a>
   <a href="mailto:bughuntyash@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
