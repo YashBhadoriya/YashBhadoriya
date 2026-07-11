@@ -23,8 +23,7 @@ Infrastructure-focused engineer with a passion for **automation**, **scalability
 
 **B.Tech in Computer Science & Engineering**
 - 🏫 Shoolini University, Solan (HP)
-- 📚 Currently Enrolled | Semester II (2026)
-- 📊 Focus: Cloud Computing, Infrastructure as Code, DevOps
+- 📊 Focus: Computer Science, Cloud Computing, Infrastructure as Code, DevOps
 
 ---
 
@@ -43,44 +42,53 @@ Infrastructure-focused engineer with a passion for **automation**, **scalability
 
 ## 🛠️ Tech Stack
 
-### **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+<div align="center">
 
-### **Languages & Scripting**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### 🐧 **Operating Systems**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="Debian" width="50" height="50" />
 
-### **Containerization & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+### 💻 **Languages & Scripting**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
 
-### **Infrastructure & Cloud**
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon&logoColor=white)
+### 🐳 **Containerization & Orchestration**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />
 
-### **Version Control & CI/CD**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### ☁️ **Cloud & Infrastructure**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50" />
 
-### **Monitoring & Logging**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Cloud Monitoring](https://img.shields.io/badge/Cloud%20Monitoring-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-50B3E6?style=flat&logo=analytics&logoColor=white)
+### 🔄 **Version Control & CI/CD**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
 
-### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnu-bash&logoColor=white)
+### 🛠️ **Developer Tools**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" />
+
+</div>
+
+---
+
+### **Skill Level Distribution**
+
+| **Category** | **Proficiency** | **Experience** |
+|---|:---:|:---:|
+| Linux & Bash Scripting | ████████░ | 2+ years |
+| Docker & Containerization | ████████░ | 1.5+ years |
+| Kubernetes Orchestration | ███████░░ | 1+ year |
+| Terraform & IaC | ███████░░ | 1+ year |
+| Python | ████████░ | 2+ years |
+| AWS & Cloud Services | ███████░░ | 1+ year |
+| GitHub Actions & CI/CD | ███████░░ | 1+ year |
+| System Administration | █████████ | 2+ years |
 
 ---
 
@@ -159,15 +167,55 @@ Infrastructure-focused engineer with a passion for **automation**, **scalability
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashBhadoriya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+### 🔥 GitHub Metrics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashBhadoriya&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashBhadoriya&show_icons=true&theme=nord&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadoriya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YashBhadoriya&theme=nord&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B3F&currStreakNum=C9D1D9&currStreakLabel=58A6FF&dates=8B949E&sideNums=C9D1D9&sideLabels=8B949E)
+
+</div>
+
+<div align="center">
+
+### 💾 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadoriya&layout=pie&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements & Stats
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YashBhadoriya&theme=nord&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBhadoriya&bg_color=0D1117&color=58A6FF&line=79C0FF&point=58A6FF&area=true&hide_border=true)
+
+</div>
+
+---
+
+### **Quick Stats**
+
+<div align="center">
+
+| Statistic | Count |
+|:---:|:---:|
+| 📚 Total Repositories | 20+ |
+| ⭐ Total Stars Earned | 150+ |
+| 🔀 Total Contributions | 500+ |
+| 🎯 Current Streak | 🔥 Active |
+| 🏅 Achievements Unlocked | 15+ |
 
 </div>
 
