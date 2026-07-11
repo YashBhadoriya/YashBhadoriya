@@ -99,28 +99,6 @@ DevOps engineer passionate about **automation**, **infrastructure**, and **scala
 
 ---
 
-## 📊 GitHub & Proficiency
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashBhadoriya&show_icons=true&theme=github_dark&hide_border=true)
-
-</div>
-
-### **Proficiency & Experience**
-
-| Skill | Level | Experience |
-|:---|:---:|:---:|
-| **Linux & Bash** | ████████░ | 1+ years |
-| **Docker & Containers** | ████████░ | 1+ years |
-| **Kubernetes** | ███████░░ | 1+ year |
-| **Terraform & IaC** | ███████░░ | 1+ year |
-| **Python** | ████████░ | 2+ years |
-| **AWS/Cloud** | ███████░░ | 1+ year |
-| **CI/CD Pipelines** | ███████░░ | 1+ year |
-
----
-
 ## 🎯 Currently Learning
 
 Kubernetes Administration • Terraform Multi-Cloud • DevSecOps • Infrastructure Automation • Open-Source Contribution
