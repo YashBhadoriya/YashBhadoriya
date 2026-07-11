@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashbhadoriya/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bughuntyash@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashBhadoriya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agile_yashh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashhdisappeared/)
 
 🌍 **Location:** Solan, Himachal Pradesh, India | 🎯 **Available for:** International Remote Opportunities
 
@@ -43,30 +43,44 @@ Infrastructure-focused engineer with a passion for **automation**, **scalability
 
 ## 🛠️ Tech Stack
 
-```
-┌─────────────────────────────────────────────────────┐
-│ OPERATING SYSTEMS                                   │
-│ Linux (Ubuntu, Debian) · CentOS                     │
-├─────────────────────────────────────────────────────┤
-│ LANGUAGES & SCRIPTING                               │
-│ Bash · Python · JavaScript · C · C++                │
-├─────────────────────────────────────────────────────┤
-│ CONTAINERIZATION & ORCHESTRATION                    │
-│ Docker · Kubernetes · Docker Compose               │
-├─────────────────────────────────────────────────────┤
-│ INFRASTRUCTURE & CLOUD                              │
-│ Terraform · AWS · Google Cloud · CloudFormation    │
-├─────────────────────────────────────────────────────┤
-│ VERSION CONTROL & COLLABORATION                     │
-│ Git · GitHub · GitHub Actions                       │
-├─────────────────────────────────────────────────────┤
-│ MONITORING & LOGGING                                │
-│ Cloud Monitoring · Log Analysis · Prometheus        │
-├─────────────────────────────────────────────────────┤
-│ DEVELOPMENT TOOLS                                   │
-│ VS Code · Vim · Terminal · Linux CLI                │
-└─────────────────────────────────────────────────────┘
-```
+### **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+
+### **Languages & Scripting**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### **Containerization & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+
+### **Infrastructure & Cloud**
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon&logoColor=white)
+
+### **Version Control & CI/CD**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### **Monitoring & Logging**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud%20Monitoring-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-50B3E6?style=flat&logo=analytics&logoColor=white)
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
