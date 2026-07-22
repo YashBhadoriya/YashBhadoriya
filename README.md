@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashhdisappeared/)
 
 📍 India  
-🎓 Incoming B.Tech CSE student at Shoolini University  
+🎓 B.Tech CSE student at Shoolini University  
 🌍 Interested in international remote opportunities and open-source collaboration
 
 ---
