@@ -17,7 +17,7 @@
 
 I am an incoming Computer Science student interested in **Linux, automation, cloud infrastructure, and DevOps**.
 
-I currently work with Python, C, C++, Git, GitHub, and Linux, while building a stronger foundation in system administration, networking, scripting, and containerization.
+Technologies I'm Working With Python, C, C++, Git, GitHub, and Linux, while building a stronger foundation in system administration, networking, scripting, and containerization.
 
 My long-term goal is to become a DevSecOps and cloud infrastructure engineer by developing practical projects, contributing to open source, and gaining real international work experience.
 
