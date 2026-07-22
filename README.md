@@ -1,6 +1,6 @@
 # 🚀 Yash Bhadoriya
 
-**Incoming B.Tech CSE Student | Linux & Python Learner | Aspiring DevOps Engineer**
+**B.Tech CSE Student | Linux & Python Learner | DevOps Learner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashbhadoriya/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bughuntyash@gmail.com)
